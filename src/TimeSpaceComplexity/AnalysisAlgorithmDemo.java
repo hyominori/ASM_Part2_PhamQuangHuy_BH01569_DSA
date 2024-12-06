@@ -1,6 +1,6 @@
 package TimeSpaceComplexity;
 import java.util.Random;
-public class AnalysisAlgorithmDemo {
+public class    AnalysisAlgorithmDemo {
     // Hàm QuickSort chính
     public static void quickSort(int[] arr, int low, int high) {
         if (low < high) {
